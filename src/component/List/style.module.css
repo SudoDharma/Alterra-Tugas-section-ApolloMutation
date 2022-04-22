@@ -1,0 +1,12 @@
+.container table{
+    margin: 1rem auto;
+    border-collapse: collapse;
+}
+.container thead{
+    background-color: red;
+}
+
+.container td, .container th{
+    padding: 0.5rem;
+    border: 1px solid black;
+}
